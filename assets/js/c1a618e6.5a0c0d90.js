@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunks_zhu_document=self.webpackChunks_zhu_document||[]).push([[1930],{8290:e=>{e.exports=JSON.parse('{"permalink":"/s.zhu-document/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
